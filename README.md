@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pragna-05
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning python,Html
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in Data analystics ,Ai analyst 
+- 🌱 I’m currently learning python,Html,C
+- 💞️ I’m looking to collaborate on Data analytics 
+- 📫 How to reach me....pragnamunagapati@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
